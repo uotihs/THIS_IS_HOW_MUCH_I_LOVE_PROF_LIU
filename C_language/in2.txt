@@ -1,0 +1,4 @@
+    Not(in = zy,out = nzy);
+    And16(a= y, b[0]= nzy,b[1]= nzy,b[2]= nzy,b[3]= nzy,b[4]= nzy,b[5]= nzy,b[6]= nzy,b[7]= nzy,b[8]= nzy,b[9]= nzy,b[10]= nzy,b[11]= nzy,b[12]= nzy,b[13]= nzy,b[14]= nzy,b[15]= nzy, out= newy );
+
+    Xor16(a= newy, b[0]=ny ,b[1]=ny,b[2]=ny,b[3]=ny,b[4]=ny,b[5]=ny,b[6]=ny,b[7]=ny,b[8]=ny,b[9]=ny,b[10]=ny,b[11]=ny,b[12]=ny,b[13]=ny,b[14]=ny,b[15]=ny, out= finaly);
