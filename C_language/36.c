@@ -29,10 +29,6 @@ int main()
             printf("%3d",i);
             if((i+dayType) % 7 == 0 || i == dayCount) putchar('\n');
         }
-
-
-
-
         printf("=====================\n");
     }
     else

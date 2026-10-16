@@ -7,13 +7,9 @@ int strcmp(char in[],char cp[])
     for(int i=7;i>=0;i--)
     {
         if(in[i] == cp[i])
-        {
-            count++;
-        }
+        {count++;}
         else
-        {
-            break;
-        }
+        {break;}
     }
     return count;
     
