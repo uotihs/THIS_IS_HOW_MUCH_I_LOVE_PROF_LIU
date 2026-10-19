@@ -7,7 +7,6 @@ typedef struct var{
     int value;
 }Var;
 
-
 int strcmp1(char* str1,char* str2)
 {
     int index = 0;

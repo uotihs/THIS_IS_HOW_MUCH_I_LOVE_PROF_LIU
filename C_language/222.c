@@ -82,32 +82,6 @@ int main()
                 bookshelf[7] = in;
             }
         }
-            // for(int i=0;i<8;i++)
-            // {
-            //     if(is_full[i] == 0)
-            //     {
-            //         bookshelf[i] = in;
-            //         is_full[i] = 1;
-            //         break;
-            //     }
-
-            //     if(i==7)
-            //     {
-            //         bookshelf[0] = 0;
-            //         is_full[0] = 0;
-            //         reloadBookshelf(bookshelf,is_full);
-            //         bookshelf[7] = in;
-            //         is_full[7] = 1;
-            //     }
-            // }
-
-    // for(int j=0;j<8;j++)
-    // {
-    //     if(j != 0) putchar(' ');
-    //     printf("%d",bookshelf[j]);
-    // }
-    // putchar('\n');
-
         
 
     }
